@@ -2,7 +2,7 @@
 A collection of usefull tools from around the internet as well as my own customized scripts
 
 
-# NVIM Thunar Hyprland Fix
+# ** NVIM Thunar Hyprland Fix **
 The nvimdesktop.sh file is a bash script that creates a desktop file for NeoVim. In Hyprland with Thunar, it allows for right clicking on a file and opening it automatically in the Nvim window. 
 
 After that, open up Thunar and use the “Open with Neovim” context menu on a text file. This should work because I tested it on my own system.

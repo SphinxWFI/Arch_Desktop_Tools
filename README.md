@@ -7,7 +7,7 @@ The nvimdesktop.sh file is a bash script that creates a desktop file for NeoVim.
 
 After that, open up Thunar and use the “Open with Neovim” context menu on a text file. This should work because I tested it on my own system.
 
-# **==Thunar-NVIM SETUP==** 
+# **== Thunar-NVIM SETUP ==** 
 
 
 ## DOWNLOAD DESKTOP CREATOR 

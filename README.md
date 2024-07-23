@@ -17,6 +17,6 @@ After that, open up Thunar and use the “Open with Neovim” context menu on a 
 
 ### make it executable using the command `chmod +x nvimdesktop.sh`
 
-### run it using the command `./neovimdesktop.sh`
+### run it using the command `./nvimdesktop.sh`
 
 This will create a desktop file named `nvim.desktop` with the specified properties in your `.local/share/applications` directory, which you can use to launch Neovim from your application menu or desktop environment's launcher
